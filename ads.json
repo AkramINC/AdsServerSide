@@ -1,6 +1,6 @@
 {
   "active_admob": false,
-  "active_fan": false,
+  "active_fan": true,
   "active_applovin": true,
   "active_ironsource": true,
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
