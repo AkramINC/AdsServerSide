@@ -1,5 +1,6 @@
 {
-  "active_ironsource": true,
+  "active_ironsource": false,
+  "active_huawei": true,
   "ironsource_app_key": "160815c85",
   "ironsource_banner_id": "DefaultBanner",
   "ironsource_interstitial_id": "DefaultInterstitial",
