@@ -1,0 +1,16 @@
+{
+  "active_admob": true,
+  "active_fan": true,
+  "active_ironsource": true,
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded_id": "ca-app-pub-3940256099942544/1033173712",
+  "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+  "fan_rewarded_id": "YOUR_PLACEMENT_ID",
+  "ironsource_app_key": "yyyyyyyyyyyyyy",
+  "ironsource_rewarded_id": "xxxxxxxxxxxxxxx",
+  "ironsource_interstitial_id": "xxxxxxxxxxxxxxxx",
+  "active_reward_for_plus": true,
+  "active_reward_for_add_to_wa": true,
+  "active_inter_for_plus": false,
+  "active_inter_for_add_to_wa": false
+}
