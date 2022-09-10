@@ -12,5 +12,7 @@
   "active_reward_for_plus": true,
   "active_reward_for_add_to_wa": true,
   "active_inter_for_plus": false,
-  "active_inter_for_add_to_wa": false
+  "active_inter_for_add_to_wa": false,
+  "inter_count": 3,
+  "reward_count": 3
 }
