@@ -1,0 +1,12 @@
+{
+  "active_admob": false,
+  "active_fan": true,
+  "active_ironsource": false,
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "fan_interstitial_id": "661640295311813_661685595307283",
+  "fan_native_id": "661640295311813_661685758640600",
+  "ironsource_app_key": "160815c85",
+  "ironsource_interstitial_id": "xxxxxxxxxxxxxxxx",
+  "inter_count": 2
+}
