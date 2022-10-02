@@ -1,12 +1,12 @@
 {
   "active_admob": false,
-  "active_fan": false,
+  "active_fan": true,
   "active_ironsource": false,
   "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-  "fan_interstitial_id": "VID_HD_9_16_39S_APP_INSTALL#1462701700824166_1462702667490736",
-  "fan_native_id": "VID_HD_9_16_39S_APP_INSTALL#1462701700824166_1462702817490721",
-  "ironsource_app_key": "160815c85",
-  "ironsource_interstitial_id": "xxxxxxxxxxxxxxxx",
+  "fan_interstitial_id": "1094554237835046_1094562294500907",
+  "fan_native_id": "1094554237835046_1094561937834276",
+  "ironsource_app_key": "16b3c7a85",
+  "ironsource_interstitial_id": "DefaultInterstitial",
   "inter_count": 3
 }
