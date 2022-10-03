@@ -1,7 +1,7 @@
 {
   "active_admob": false,
-  "active_fan": true,
-  "active_ironsource": false,
+  "active_fan": false,
+  "active_ironsource": true,
   "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
   "fan_interstitial_id": "1094554237835046_1094562294500907",
