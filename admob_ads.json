@@ -1,4 +1,5 @@
 {
+  "start_activity": true,
   "admob_active": true,
   "is_active": false,
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
