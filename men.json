@@ -1,0 +1,16 @@
+{
+  "intro_activity": true,
+  "active_admob": true,
+  "active_applovin": true,
+  "active_ironsource": true,
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_open_id": "ca-app-pub-3940256099942544/1033173712",
+  "ironsource_app_key": "yyyyyyyyyyyyyy",
+  "ironsource_banner_id": "xxxxxxxxxxxxxxx",
+  "ironsource_interstitial_id": "xxxxxxxxxxxxxxxx",
+  "applovin_banner_id": "aaaaaaaaaaaaaa",
+  "applovin_interstitial_id": "bbbbbbbbbbbbbb",
+  "applovin_native_id": "bbbbbbbbbbbbbb"
+}
