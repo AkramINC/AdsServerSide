@@ -1,7 +1,7 @@
 {
   "admob_count": 3,
   "ironsource_count": 2,
-  "intro_activity": true,
+  "intro_activity": false,
   "active_admob": true,
   "active_ironsource": false,
   "active_download_inter": false,
