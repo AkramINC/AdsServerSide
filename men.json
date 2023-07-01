@@ -4,7 +4,7 @@
   "intro_activity": false,
   "active_admob": true,
   "active_ironsource": false,
-  "active_download_inter": false,
+  "active_download_inter": true,
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "admob_interstitial_download_id": "ca-app-pub-3940256099942544/1033173712",
