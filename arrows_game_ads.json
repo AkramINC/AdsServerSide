@@ -1,0 +1,85 @@
+{
+  "version": 3,
+
+  "adsEnabled": true,
+
+  "units": {
+  "appOpen":      "ca-app-pub-3940256099942544/5575463023",
+  "interstitial": "ca-app-pub-3940256099942544/4411468910",
+  "rewarded":     "ca-app-pub-3940256099942544/1712485313",
+  "banner":       "ca-app-pub-3940256099942544/2934735716",
+  "native":       "ca-app-pub-3940256099942544/3986624511"
+},
+
+  "interstitial": {
+    "enabled": true,
+    "clicksBeforeFirst": 10,
+    "clicksPerAd": 10,
+    "cooldownSeconds": 45,
+    "countedActions": {
+      "levelWin": true,
+      "levelFail": true,
+      "levelRestart": true,
+      "openLevelSelect": true,
+      "openSettings": true,
+      "openShop": true,
+      "backToMenu": true,
+      "usePowerUp": false,
+      "tapArrow": false
+    },
+    "placements": {
+      "inter_nextLevel": true,
+      "inter_play": false,
+      "inter_levels": false,
+      "inter_shop": false,
+      "inter_settings": false,
+      "inter_mute": false,
+      "inter_about": false
+    }
+  },
+
+  "appOpen": {
+    "enabled": false,
+    "onLaunch": true,
+    "onResume": true,
+    "minBackgroundSeconds": 30,
+    "waitSecondsAtLaunch": 3,
+    "suppressAroundOtherAdsSeconds": 30
+  },
+
+  "rewarded": {
+    "enabled": true,
+    "placements": {
+      "rewarded_continue": true,
+      "rewarded_unlock": true,
+      "rewarded_hints": true,
+      "rewarded_undos": true,
+      "rewarded_winPower": true
+    },
+    "rewardHints": 5,
+    "rewardUndos": 5
+  },
+
+  "banner": {
+    "enabled": true,
+    "placements": {
+      "banner_packList": true
+    },
+    "everyNPackButtons": 13
+  },
+
+  "native": {
+    "enabled": true,
+    "placements": {
+      "native_packGrid": true
+    }
+  },
+
+  "review": {
+    "enabled": true,
+    "winsInterval": 10,
+    "maxDisplays": 999,
+    "showAfterLater": true,
+    "reviewURL": "https://apps.apple.com/app/idYOUR_APP_ID?action=write-review"
+  }
+}
