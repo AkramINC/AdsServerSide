@@ -1,0 +1,121 @@
+{
+  "adsEnabled": true,
+  "placements": {
+    "tabBanner": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/2435281174"
+    },
+    "drawingBanner": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/2435281174"
+    },
+    "sketchDetailNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "lessonDetailNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "drawModeNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "textArtNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "exitSketchNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "imageCropNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "libraryTextEmptyNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "libraryImageEmptyNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "libraryFavoritesEmptyNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "libraryTextFilledNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "libraryImageFilledNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "libraryFavoritesFilledNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "generateStyleNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "generateLevelNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "generatePromptNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "imageToSketchProcessingNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "imageToSketchResultNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "uploadedSketchDetailNative": {
+      "enabled": true,
+      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+    },
+    "startDrawing": {
+      "rewarded": {
+        "enabled": true,
+        "adUnitId": "ca-app-pub-3940256099942544/1712485313",
+        "everyNClicks": 1
+      },
+      "interstitial": {
+        "enabled": true,
+        "adUnitId": "ca-app-pub-3940256099942544/4411468910",
+        "everyNClicks": 1
+      }
+    },
+    "discountPaywallClose": {
+      "rewarded": {
+        "enabled": true,
+        "adUnitId": "ca-app-pub-3940256099942544/1712485313",
+        "everyNClicks": 1
+      },
+      "interstitial": {
+        "enabled": false,
+        "adUnitId": "ca-app-pub-3940256099942544/4411468910",
+        "everyNClicks": 1
+      }
+    },
+    "rouletteClose": {
+      "rewarded": {
+        "enabled": true,
+        "adUnitId": "ca-app-pub-3940256099942544/1712485313",
+        "everyNClicks": 1
+      },
+      "interstitial": {
+        "enabled": false,
+        "adUnitId": "ca-app-pub-3940256099942544/4411468910",
+        "everyNClicks": 1
+      }
+    }
+  }
+}
