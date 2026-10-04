@@ -3,117 +3,117 @@
   "placements": {
     "tabBanner": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/2435281174"
+      "adUnitId": "ca-app-pub-7977151134636872/4028136619"
     },
     "drawingBanner": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/2435281174"
+      "adUnitId": "ca-app-pub-7977151134636872/4028136619"
     },
     "sketchDetailNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "lessonDetailNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "drawModeNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "textArtNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "exitSketchNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "imageCropNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "libraryTextEmptyNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "libraryImageEmptyNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "libraryFavoritesEmptyNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "libraryTextFilledNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "libraryImageFilledNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "libraryFavoritesFilledNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "generateStyleNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "generateLevelNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "generatePromptNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "imageToSketchProcessingNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "imageToSketchResultNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "uploadedSketchDetailNative": {
       "enabled": true,
-      "adUnitId": "ca-app-pub-3940256099942544/3986624511"
+      "adUnitId": "ca-app-pub-7977151134636872/9548056608"
     },
     "startDrawing": {
       "rewarded": {
         "enabled": true,
-        "adUnitId": "ca-app-pub-3940256099942544/1712485313",
+        "adUnitId": "ca-app-pub-7977151134636872/9164913227",
         "everyNClicks": 1
       },
       "interstitial": {
         "enabled": true,
-        "adUnitId": "ca-app-pub-3940256099942544/4411468910",
+        "adUnitId": "ca-app-pub-7977151134636872/1290292631",
         "everyNClicks": 1
       }
     },
     "discountPaywallClose": {
       "rewarded": {
         "enabled": true,
-        "adUnitId": "ca-app-pub-3940256099942544/1712485313",
+        "adUnitId": "ca-app-pub-7977151134636872/9164913227",
         "everyNClicks": 1
       },
       "interstitial": {
         "enabled": false,
-        "adUnitId": "ca-app-pub-3940256099942544/4411468910",
+        "adUnitId": "ca-app-pub-7977151134636872/1290292631",
         "everyNClicks": 1
       }
     },
     "rouletteClose": {
       "rewarded": {
         "enabled": true,
-        "adUnitId": "ca-app-pub-3940256099942544/1712485313",
+        "adUnitId": "ca-app-pub-7977151134636872/9164913227",
         "everyNClicks": 1
       },
       "interstitial": {
         "enabled": false,
-        "adUnitId": "ca-app-pub-3940256099942544/4411468910",
+        "adUnitId": "ca-app-pub-7977151134636872/1290292631",
         "everyNClicks": 1
       }
     }
