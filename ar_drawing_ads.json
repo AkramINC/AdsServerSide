@@ -89,7 +89,7 @@
       },
       "interstitial": {
         "enabled": true,
-        "adUnitId": "ca-app-pub-7977151134636872/1290292631",
+        "adUnitId": "ca-app-pub-7977151134636872/5924532018",
         "everyNClicks": 1
       }
     },
@@ -101,7 +101,7 @@
       },
       "interstitial": {
         "enabled": false,
-        "adUnitId": "ca-app-pub-7977151134636872/1290292631",
+        "adUnitId": "ca-app-pub-7977151134636872/5924532018",
         "everyNClicks": 1
       }
     },
@@ -113,7 +113,7 @@
       },
       "interstitial": {
         "enabled": false,
-        "adUnitId": "ca-app-pub-7977151134636872/1290292631",
+        "adUnitId": "ca-app-pub-7977151134636872/5924532018",
         "everyNClicks": 1
       }
     }
